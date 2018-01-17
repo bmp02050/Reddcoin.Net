@@ -1,0 +1,6 @@
+C:\Users\Bradley\Desktop\reddcoinhack\ReddCoinNet\ReddCoinNet\bin\Debug\ReddCoinNet.dll
+C:\Users\Bradley\Desktop\reddcoinhack\ReddCoinNet\ReddCoinNet\bin\Debug\ReddCoinNet.pdb
+C:\Users\Bradley\Desktop\reddcoinhack\ReddCoinNet\ReddCoinNet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bradley\Desktop\reddcoinhack\ReddCoinNet\ReddCoinNet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bradley\Desktop\reddcoinhack\ReddCoinNet\ReddCoinNet\obj\Debug\ReddCoinNet.dll
+C:\Users\Bradley\Desktop\reddcoinhack\ReddCoinNet\ReddCoinNet\obj\Debug\ReddCoinNet.pdb
